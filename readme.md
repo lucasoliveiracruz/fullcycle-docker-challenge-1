@@ -13,7 +13,4 @@ docker run lucasoliveiracruz/fullcycle
 - [x] Publicar imagem no DockerHub
 
 ### Links úteis
-
-- [Plataforma FullCycle](https://plataforma.fullcycle.com.br/)
-- [DockerHub](https://hub.docker.com/r/lucasoliveiracruz/fullcycle)
-- [Ref. golang](https://go.dev/doc/tutorial/getting-started)
+- [Imagem no DockerHub](https://hub.docker.com/r/lucasoliveiracruz/fullcycle)
