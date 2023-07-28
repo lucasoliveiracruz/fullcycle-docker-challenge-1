@@ -15,5 +15,5 @@ docker run lucasoliveiracruz/fullcycle
 ### Links úteis
 
 - [Plataforma FullCycle](https://plataforma.fullcycle.com.br/)
-- [DockerHub](https://hub.docker.com/)
+- [DockerHub]([https://hub.docker.com/](https://hub.docker.com/r/lucasoliveiracruz/fullcycle))
 - [Ref. golang](https://go.dev/doc/tutorial/getting-started)
